@@ -40,6 +40,7 @@ impl<T> SharedMemory<T> {
         T: TryFromBytes + Debug,
     {
         use anyhow::anyhow;
+        use zerocopy::IntoBytes;
         let size = std::mem::size_of::<T>();
         let bytes = &self.mmap;
         if bytes.len() < size {
