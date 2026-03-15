@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/github/license/Rgosh/ac-pro-engineer)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Rgosh/ac-pro-engineer)](https://github.com/Rgosh/ac-pro-engineer/stargazers)
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#linux-section)
+[![Release](https://github.com/mvasilchuk/ac-pro-engineer/actions/workflows/release.yml/badge.svg)](https://github.com/mvasilchuk/ac-pro-engineer/actions/workflows/release.yml)
 
 **AC Pro Engineer** is a standalone telemetry and race engineer tool designed for pure performance and utility. Unlike
 heavy Electron-based overlays, this tool runs in a **Terminal User Interface (TUI)** using Rust for maximum speed and
