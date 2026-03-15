@@ -1,6 +1,7 @@
 [package]
 name = "ac_tui"
 description = "Professional telemetry TUI for Assetto Corsa"
+repository = "https://github.com/Rgosh/ac-pro-engineer.git"
 
 version.workspace = true
 edition.workspace = true

@@ -4,6 +4,7 @@ authors = ["Damir Jelić <poljar@termina.org.uk>", "Maksym Vasylchuk <mvasilchuk
 description = "Shared memory bridge for Wine/Proton and Linux apps."
 version.workspace = true
 edition.workspace = true
+repository = "https://github.com/Rgosh/ac-pro-engineer.git"
 
 [[bin]]
 name = "shm-bridge"
